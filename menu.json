@@ -1,0 +1,149 @@
+{
+    "menu": [
+      {
+        "jenis": "Makanan",
+        "nama": "Pizza Hut",
+        "deskripsi": "Pizza Spesial dengan keju mozarella",
+        "harga": 25000,
+        "estimasi": "15 menit",
+        "gambar": "s-img-2.JPG"
+      },
+      {
+        "jenis": "Makanan",
+        "nama": "Big Burger",
+        "deskripsi": "Bueger dengan isian sayuran dan double steak ayam",
+        "harga": 30000,
+        "estimasi": "15 menit",
+        "gambar": "s-img-1.JPG"
+      },
+      {
+        "jenis": "Makanan",
+        "nama": "Kebab Spesial",
+        "deskripsi": "Kebab spesial dengan isian sayuran dan daging sapi",
+        "harga": 20000,
+        "estimasi": "15 menit",
+        "gambar": "g-3.JPG"
+      },
+      {
+        "jenis": "Makanan",
+        "nama": "Roti Bakar",
+        "deskripsi": "Roti Bakar dengan selai buah dan telur mata sapi diatasnya",
+        "harga": 10000,
+        "estimasi": "15 menit",
+        "gambar": "g-7.JPG"
+      },
+      {
+        "jenis": "Makanan",
+        "nama": "Fried Chicken",
+        "deskripsi": "Ayam Goreng dengan balutan tepung yang tebal dan renyah",
+        "harga": 10000,
+        "estimasi": "15 menit",
+        "gambar": "g-6.JPG"
+      },
+      {
+        "jenis": "Makanan",
+        "nama": "Mi Ayam Spesial",
+        "deskripsi": "Mi Ayam spesial dengan potongan ayam banyak dan pangskit",
+        "harga": 20000,
+        "estimasi": "15 menit",
+        "gambar": "mi1.JPG"
+      },
+      {
+        "jenis": "Makanan",
+        "nama": "Bakso Spesial",
+        "deskripsi": "Bakso daging Sapi Spesial yang sangat nikmat",
+        "harga": 25000,
+        "estimasi": "10 menit",
+        "gambar": "bakso1.JPG"
+      },
+      {
+        "jenis": "Minuman",
+        "nama": "Es Teh",
+        "deskripsi": "Es Teh manis yang sangat nikmat saat cuaca panas",
+        "harga": 5000,
+        "estimasi": "10 menit",
+        "gambar": "esteh.JPG"
+      },
+      {
+        "jenis": "Minuman",
+        "nama": "Es Jeruk",
+        "deskripsi": "Es Jeruk yang kaya akan vitamin C yang sangat menyegarkan",
+        "harga": 5000,
+        "estimasi": "10 menit",
+        "gambar": "jeruk.JPG"
+      },
+      {
+        "jenis": "Minuman",
+        "nama": "Es Kopyor",
+        "deskripsi": "Es Kopyor dengan buah kelapa yang kaya manfaat",
+        "harga": 15000,
+        "estimasi": "10 menit",
+        "gambar": "kopyor.jpg"
+      },
+      {
+        "jenis": "Minuman",
+        "nama": "Es Teler",
+        "deskripsi": "Es Teler dengan berbagai campuran buah yang sangat menyegarkan",
+        "harga": 20000,
+        "estimasi": "10 menit",
+        "gambar": "teler.JPG"
+      },
+      {
+        "jenis": "Minuman",
+        "nama": "Kopi",
+        "deskripsi": "Kopi panas yang dapat menenangkan fikiran",
+        "harga": 18000,
+        "estimasi": "15 menit",
+        "gambar": "kopi.JPG"
+      },
+      {
+        "jenis": "Dessert",
+        "nama": "Oreo Lumer",
+        "deskripsi": "Oreo Lumer yang cocok untuk mengembalikan mood",
+        "harga": 15000,
+        "estimasi": "10 menit",
+        "gambar": "oreo.JPG"
+      },
+      {
+        "jenis": "Dessert",
+        "nama": "Cupcake",
+        "deskripsi": "Cupcake dengan berbagai macam rasa yang nikmat",
+        "harga": 10000,
+        "estimasi": "10 menit",
+        "gambar": "cupcake.JPG"
+      },
+      {
+        "jenis": "Dessert",
+        "nama": "Es Krim",
+        "deskripsi": "Es Krim dengan berbagai macam rasa dan yang pastinya lembur dimulut",
+        "harga": 15000,
+        "estimasi": "10 menit",
+        "gambar": "eskrim.JPG"
+      },
+      {
+        "jenis": "Dessert",
+        "nama": "Chocolate Cake",
+        "deskripsi": "Cake Coklat yang bagitu lembut dan lumer saat dimakan",
+        "harga": 20000,
+        "estimasi": "10 menit",
+        "gambar": "coklat.jpg"
+      },
+      {
+        "jenis": "Dessert",
+        "nama": "Pisang Coklat",
+        "deskripsi": "Pisang coklat yang renyah dan nikmat untuk menambah keseruan obrolanmu",
+        "harga": 10000,
+        "estimasi": "10 menit",
+        "gambar": "pisang.jpg"
+      },
+      {
+        "jenis": "Dessert",
+        "nama": "Aneka Jus",
+        "deskripsi": "Jus minuman dari buah asli yang kaya akan manfaat bagi tubuh",
+        "harga": 10000,
+        "estimasi": "10 menit",
+        "gambar": "jus.JPG"
+      }
+    ]
+  }
+  
